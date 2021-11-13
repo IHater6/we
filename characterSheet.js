@@ -42,7 +42,7 @@ const data = {
   ],
   attributes: [
     {
-      type: 'Aparência',
+      type: 'Carisma',
       amount: 10,
     },
     {
@@ -78,7 +78,7 @@ const data = {
       amount: 10,
     },
     {
-      type: '?',
+      type: 'Sabedoria',
       amount: 10,
     },
   ],
